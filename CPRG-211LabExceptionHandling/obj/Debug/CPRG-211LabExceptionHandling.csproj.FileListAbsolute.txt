@@ -1,0 +1,8 @@
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\CPRG-211LabExceptionHandling\bin\Debug\CPRG-211LabExceptionHandling.exe.config
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\CPRG-211LabExceptionHandling\bin\Debug\CPRG-211LabExceptionHandling.exe
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\CPRG-211LabExceptionHandling\bin\Debug\CPRG-211LabExceptionHandling.pdb
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\CPRG-211LabExceptionHandling\obj\Debug\CPRG-211LabExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\CPRG-211LabExceptionHandling\obj\Debug\CPRG-211LabExceptionHandling.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\CPRG-211LabExceptionHandling\obj\Debug\CPRG-211LabExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\CPRG-211LabExceptionHandling\obj\Debug\CPRG-211LabExceptionHandling.exe
+C:\Users\Jason Alfonza K\OneDrive\Documents\CPRG-211\Projects\CPRG-211LabExceptionHandling\obj\Debug\CPRG-211LabExceptionHandling.pdb
